@@ -163,7 +163,7 @@ body {
 .site-title {
 	margin-bottom: 0;
 	@include animation-duration(1s);
-    @include animation-delay(.75s);
+    @include animation-delay(.50s);
 	a {
 		color: $black;
 	}
