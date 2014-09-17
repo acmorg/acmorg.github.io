@@ -16,7 +16,7 @@ ACM is a long standing, prestigious institution that has played a key role in ev
 I am [Andrew Conklin](http://conkuer.com/resume), [ACM Local Activator](mailto:adconk@staff.acm.org). I'm working with ACM's Membership and Marketing Teams to bring this initiative to several cities.  A little about me:
 
 * former Chair of DC Chapter of ACM
-* Started DC Nightowls, a local Washington DC entrepreneurial community of 1700 self-starters
+* Started DC Nightowls, a local Washington DC entrepreneurial community of 1700+ self-starters
 * Background in computer science from Western Michigan University
 
 ## How can we help each other?
