@@ -1,14 +1,12 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
+andrew_conklin:
+  name: Andrew Conklin
+  web: http://conkuer.com
+  email: adconk@staff.acm.org
   bio: "What do you want, jewels? I am a very extravagant man."
   avatar: bio-photo-2.jpg
   twitter: extravagantman
-  google:
-    plus: BillyRick
 
 cornelius_fiddlebone:
   name: Cornelius Fiddlebone
