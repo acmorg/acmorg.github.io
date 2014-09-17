@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-excerpt: "The story behind the ACM Local initiative."
+excerpt: "Background on the ACM Local initiative."
 modified: 2014-09-17T11:46:38.564948-04:00
 image:
   feature: about-acmlocal.jpg
@@ -13,12 +13,11 @@ ACM is a long standing, prestigious institution that has played a key role in ev
 
 ## Who can I talk to?
 
-I am [Andrew Conklin](https://linkedin.com/in/adconk), [ACM Local Activator](mailto:adconk@staff.acm.org). I'm working with ACM's Membership and Marketing Teams to bring this initiative to several cities.  A little about me:
+I am [Andrew Conklin](http://conkuer.com/resume), [ACM Local Activator](mailto:adconk@staff.acm.org). I'm working with ACM's Membership and Marketing Teams to bring this initiative to several cities.  A little about me:
 
-* former Chair of [DC Chapter of ACM](http://dcacm.org)
-* Started [DC Nightowls](http://meetup.com/dcnightowls), a local Washington DC entrepreneurial community
-* Background in computer science from [Western Michigan University](https://www.cs.wmich.edu/)
-* Find more about me here: [conkuer.com](http://conkuer.com)
+* former Chair of DC Chapter of ACM
+* Started DC Nightowls, a local Washington DC entrepreneurial community of 1700 self-starters
+* Background in computer science from Western Michigan University
 
 ## How can we help each other?
 
