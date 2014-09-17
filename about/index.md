@@ -18,7 +18,7 @@ I am [Andrew Conklin](https://linkedin.com/in/adconk), [ACM Local Activator](mai
 * former Chair of [DC Chapter of ACM](http://dcacm.org)
 * Started [DC Nightowls](http://meetup.com/dcnightowls), a local Washington DC entrepreneurial community
 * Background in computer science from [Western Michigan University](https://www.cs.wmich.edu/)
-* Find more about me on my personal page: [conkuer.com](http://conkuer.com)
+* Find more about me here: [conkuer.com](http://conkuer.com)
 
 ## How can we help each other?
 
