@@ -183,7 +183,7 @@ body {
 
 .site-calltoaction {
 	@include animation-duration(1s);
-	@include animation-delay(1.25s);
+		@include animation-delay(1.25s);
 }
 
 
