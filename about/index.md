@@ -13,7 +13,7 @@ ACM is a long standing, prestigious institution that has played a key role in ev
 
 ## Who can I talk to?
 
-I am [Andrew Conklin](https://linkedin.com/in/adconk), [ACM Local Activator](mailto:adconk@staff.acm.org). I'm working with ACM's Membership and Marketing Teams on bringing this initiative to several cities.  A little about me:
+I am [Andrew Conklin](https://linkedin.com/in/adconk), [ACM Local Activator](mailto:adconk@staff.acm.org). I'm working with ACM's Membership and Marketing Teams to bring this initiative to several cities.  A little about me:
 
 * former Chair of [DC Chapter of ACM](http://dcacm.org)
 * Started [DC Nightowls](http://meetup.com/dcnightowls), a local Washington DC entrepreneurial community
