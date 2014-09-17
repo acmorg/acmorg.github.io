@@ -9,7 +9,7 @@ image:
   creditlink: http://conkuer.com
 ---
 
-ACM is a long standing, prestigious institution that has played a key role in evolving Computer Science and its computing sub-categories like Data Science (KDD) and User Experience (CHI). Association for Computing Machinery started through social connections between computer scientists in a young field.  Now, nearly 70 years later, we're excited about building a new grassroots framework in a much larger field where the divide is greater between academics and practitioners.
+ACM is a long standing, prestigious institution that has played a key role in evolving Computer Science and its computing sub-categories like Data Science (KDD) and User Experience (CHI). Association for Computing Machinery started through social connections between computer scientists in a young field.  Now, nearly 70 years later, we're excited about building a new grassroots framework in a much larger field where academics and practitioners are finding it harder to reach each other.
 
 ## Who can I talk to?
 
