@@ -13,7 +13,7 @@ ACM, the Association for Computing Machinery, is the world’s largest education
 
 ## Who can I talk to?
 
-I am [Andrew Conklin](http://conkuer.com/resume), [ACM Local Activator](mailto:adconk@staff.acm.org). I'm working with ACM's Membership and Marketing Teams to bring this initiative to several cities.  A little about me:
+I am [Andrew Conklin](http://conkuer.com/resume), [ACM Local Activator](mailto:adconk@staff.acm.org). I'm working with ACM's Membership and Marketing Teams to bring the Local initiative to several cities.  A little about me:
 
 * former Chair of DC Chapter of ACM
 * Started DC Nightowls, a local Washington DC entrepreneurial community of 1700+ self-starters
