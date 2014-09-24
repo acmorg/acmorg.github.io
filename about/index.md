@@ -5,11 +5,11 @@ excerpt: "Background on the ACM Local initiative."
 modified: 2014-09-17T11:46:38.564948-04:00
 image:
   feature: about-acmlocal.jpg
-  credit: Andrew Conklin
-  creditlink: http://conkuer.com
+  credit: Former ACM President and Google Chief Internet Evangelist Vint Cerf speaks to the DC Chapter of ACM.
+  creditlink: http://dcacm.org
 ---
 
-ACM is a long standing, prestigious institution that has played a key role in evolving Computer Science and its computing sub-categories like Data Science and User Experience. Association for Computing Machinery started through social connections between computer scientists in a young field.  Now, nearly 70 years later, we're excited about building a new grassroots framework in a much larger field where academics and practitioners are finding it harder to reach each other.
+ACM, the Association for Computing Machinery, is the world’s largest educational and scientific computing society, uniting computing professionals through conferences, publications, and local chapter events. For over 50 years, ACM has helped computing professionals to be their most creative, connect to peers, and see what’s next, by providing opportunities for life-long learning, career development, and professional networking.
 
 ## Who can I talk to?
 
