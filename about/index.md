@@ -21,6 +21,6 @@ I am [Andrew Conklin](http://conkuer.com/resume), [ACM Local Activator](mailto:a
 
 ## How can we help each other?
 
-We are currently interviewing individuals in NYC, Boston, Bay Area California, and Pittsburg to see who would like to become leaders in their local tech community. To help lead local events with a remote mentor, jump on our list below.
+There's no faster way to grow your technical network than to pull people together for a technical event.  If you do that more than once, you have a community that knows you.  We are currently interviewing individuals in NYC, Boston, Bay Area California, and Pittsburg to see who would like to become leaders in their local tech community. To help lead local events with a remote mentor, jump on our list below.
 
 <a markdown="0" href="http://eepurl.com/3w8uL" class="btn">Help us Lead</a> or [Stay Informed](http://eepurl.com/3xhIX)
