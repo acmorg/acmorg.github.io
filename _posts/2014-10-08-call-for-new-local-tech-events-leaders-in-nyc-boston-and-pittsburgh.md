@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Hello World"
+title: "Call for New Tech Event Leaders in NYC, Boston, and Pittsburgh"
 modified:
 categories: blog
 excerpt:
-tags: []
+tags: [local tech events, tech leaders, pittsburgh computer science, new york city computer science, boston computer science]
 image:
   feature:
-date: 2014-10-08T01:39:55-04:00
+date: 2014-10-08T13:36:50-04:00
 ---
 
-## Stage 1: Call for New local tech events leaders in NYC, Boston, and Pittsburgh
+Greetings Reader,  
 
-Greetings web slinger, I'm Andrew Conklin, former Chair of the Washington, DC Chapter of ACM. I'm helping ACM launch a new local events initiative in three major cities (Pittsburgh, Boston, NYC). We want to help computer professionals like you to build a personal network of smart technical people in the New York City area.
+I'm Andrew Conklin, former Chair of the Washington, DC Chapter of ACM. I'm helping ACM launch a new local events initiative in three major cities (Pittsburgh, Boston, NYC). We want to help computer professionals like you to build a personal network of smart technical people in the New York City area.
 
 Through locally organized events, you'll get to know others in your field who can share their work experiences and insight, discuss new research ideas, and provide guidance in finding a satisfying job or launching a new technical venture.
 
@@ -25,8 +25,8 @@ We're accepting our first wave of lead organizers by October 15.
 
 We're looking forward to opening up a lot of interesting dialogue between academics, practitioners, and hobbyists in your area. Won't you join us?
 
-Read more [about us here][http://local.acm.org/about].
+Read more [about us here](http://local.acm.org/about).
 
-Sincerely,
-Andrew Conklin
-ACM Local Activator
+Sincerely,  
+Andrew Conklin  
+ACM Local Activator  
