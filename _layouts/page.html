@@ -13,6 +13,8 @@
 
 {% if page.title != "Cities" %}
 {% include header.html %}
+{% else %}
+{% include logo.html %}
 {% endif %}
 
 <div id="main" role="main">
@@ -30,7 +32,7 @@
 </div><!-- /#main -->
 
 {% if page.title == "Cities" %}
-{% include header.html %}
+{% include desc.html %}
 {% endif %}
 
 <div class="footer-wrapper">
