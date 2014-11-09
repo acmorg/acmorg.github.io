@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Call for New Tech Event Leaders in NYC, Boston, and Pittsburgh"
+author: andrew_conklin
 modified:
 categories: blog
 excerpt:

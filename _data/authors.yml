@@ -4,15 +4,6 @@ andrew_conklin:
   name: Andrew Conklin
   web: http://conkuer.com
   email: adconk@staff.acm.org
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
-
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
+  bio: "ACM Staffer, CTO of Routeam, Community Organizer"
+  avatar: adconk.jpg
+  twitter: adconk

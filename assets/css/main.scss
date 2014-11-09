@@ -27,3 +27,33 @@ sitemap: false
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "simple-search";
+
+section {
+  //text-align: center;
+  @include outer-container;
+  .meetup_img {
+    @include span-columns(6);
+    @include media(min-width 320px max-width 720px, 12) {
+      @include span-columns(12);
+    }
+  }
+}
+
+.meetup_img {
+   position: relative;
+   width: 100%; /* for IE 6 */
+}
+
+.meetup_img h2 {
+   position: absolute;
+   top: 60px;
+   left: 20px;
+   width: 100%;
+}
+
+.meetup_img h2 span {
+   color: white;
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px;
+}
