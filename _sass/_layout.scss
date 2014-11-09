@@ -202,11 +202,12 @@ body {
 .entry-feature-image {
 	margin: 20px 0 0;
 	width: 100%;
+	margin-top: -143px;
 	@include media($medium) {
-		margin-top: -75px;
+		margin-top: -300px;
 	}
 	@include media($large) {
-		margin-top: -145px;
+		margin-top: -300px;
 	}
 }
 .entry-header {
