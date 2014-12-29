@@ -5,7 +5,7 @@ author: andrew_conklin
 modified:
 categories: blog
 excerpt:
-tags: [local tech events, tech leaders, pittsburgh computer science, new york city computer science, boston computer science]
+tags: [local tech events, tech leaders, bay area computer science, pittsburgh computer science, boston computer science]
 image:
   feature:
 date: 2014-11-10T13:36:50-04:00
