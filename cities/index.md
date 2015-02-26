@@ -24,7 +24,7 @@ modified: 2014-11-17T11:46:38.564948-04:00
 </section>
 <section>
 <div class="meetup_img">
-<img src="/images/cities-tmp.jpg" />
+<img src="/images/cities-nyc.jpg" />
 <h2>
 <span>New York City</span>
 <br />
@@ -32,7 +32,7 @@ modified: 2014-11-17T11:46:38.564948-04:00
 </h2>
 </div>
 <div class="meetup_img">
-<img src="/images/cities-nyc.jpg" />
+<img src="/images/cities-tmp.jpg" />
 <h2>
 <span>Next City</span>
 <br />
