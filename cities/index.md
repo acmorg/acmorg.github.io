@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cities
-excerpt: "Our cities apart of ACM Local."
+excerpt: "Our cities of ACM Local."
 modified: 2014-11-17T11:46:38.564948-04:00
 ---
 <section>
@@ -26,17 +26,17 @@ modified: 2014-11-17T11:46:38.564948-04:00
 <div class="meetup_img">
 <img src="/images/cities-nyc.jpg" />
 <h2>
-<span>New York City</span>
-<br />
-<a markdown="0" href="http://www.meetup.com/ACM-NYC" class="btn">Meetup</a>
+  <span>New York City</span>
+  <br />
+  <a markdown="0" href="http://www.meetup.com/ACM-NY" class="btn">Meetup</a>
 </h2>
 </div>
 <div class="meetup_img">
 <img src="/images/cities-dc.jpg" />
 <h2>
-<span>Washington DC</span>
-<br />
-<a markdown="0" href="http://www.meetup.com/ACM-DC" class="btn">Meetup</a>
+  <span>Washington DC</span>
+  <br />
+  <a markdown="0" href="http://www.meetup.com/ACM-DC" class="btn">Meetup</a>
 </h2>
 </div>
 </section>
