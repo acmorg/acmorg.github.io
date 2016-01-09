@@ -1,0 +1,80 @@
+{% for organizer in site.data.organizers %}
+<div class="card-row">
+<div class="one-card">
+<div class="card">
+  <div class="card-face face-1">
+    <div class="card-face__avatar">
+    <img src="{{ organizer.avatar }}" width="110" height="110" draggable="false"/></div>
+    <h2 class="card-face__name">Name</h2>
+    <span class="card-face__title">
+      {{ organizer.city }}
+      <br />
+      {{ organizer.specialty }}
+    </span>
+    <div class="card-face-footer">
+    <a href="http://www.meetup.com/{{ organizer.meetup }}" target="_blank" class="card-face__social">
+      <img src="http://img2.meetupstatic.com/img/98536469248376157692/m/ios/Icon-iPad-76pt%402x.png" width="36" height="36" draggable="false"/>
+    </a>
+    <a href="https://linkedin.com/in/{{ organizer.linkedin }}" target="_blank" class="card-face__social">
+      <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-128.png" width="36" height="36" draggable="false"/>
+    </a>
+    <a href="https://github.com/{{ organizer.github }}" target="_blank" class="card-face__social">
+      <img src="http://cdn.flaticon.com/png/256/25231.png" width="36" height="36" draggable="false"/>
+    </a>
+
+    </div>
+  </div>
+</div>
+</div>
+<div class="one-card">
+<div class="card">
+  <div class="card-face face-1">
+    <div class="card-face__avatar">
+    <img src="{{ organizer.avatar }}" width="110" height="110" draggable="false"/></div>
+    <h2 class="card-face__name">Name</h2>
+    <span class="card-face__title">
+      City
+      <br />
+      Specialty Interest
+    </span>
+    <div class="card-face-footer">
+    <a href="https://twitter.com/adconk" target="_blank" class="card-face__social">
+      <img src="http://icons.iconarchive.com/icons/xenatt/the-circle/96/App-Twitter-icon.png" width="36" height="36" draggable="false"/>
+    </a>
+    <a href="https://linkedin.com/in/adconk" target="_blank" class="card-face__social">
+      <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-128.png" width="36" height="36" draggable="false"/>
+    </a>
+    <a href="https://github.com/adconk" target="_blank" class="card-face__social">
+      <img src="http://cdn.flaticon.com/png/256/25231.png" width="36" height="36" draggable="false"/>
+    </a>
+    </div>
+  </div>
+</div>
+</div>
+<div class="one-card">
+<div class="card">
+  <div class="card-face face-1">
+    <div class="card-face__avatar">
+    <img src="{{ organizer.avatar }}" width="110" height="110" draggable="false"/></div>
+    <h2 class="card-face__name">Name</h2>
+    <span class="card-face__title">
+      City
+      <br />
+      Specialty Interest
+    </span>
+    <div class="card-face-footer">
+    <a href="https://twitter.com/adconk" target="_blank" class="card-face__social">
+      <img src="http://icons.iconarchive.com/icons/xenatt/the-circle/96/App-Twitter-icon.png" width="36" height="36" draggable="false"/>
+    </a>
+    <a href="https://linkedin.com/in/adconk" target="_blank" class="card-face__social">
+      <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-128.png" width="36" height="36" draggable="false"/>
+    </a>
+    <a href="https://github.com/adconk" target="_blank" class="card-face__social">
+      <img src="http://cdn.flaticon.com/png/256/25231.png" width="36" height="36" draggable="false"/>
+    </a>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+{% endfor %}
