@@ -1,13 +1,10 @@
 # Site navigation links
 
-# - title: About
-#   url: /about/
-
 - title: Cities
   url: /cities/
 
 - title: Organizers
   url: /organizers/
 
-#- title: Blog
-#  url: /blog/
+- title: Meetups
+  url: /meetups/

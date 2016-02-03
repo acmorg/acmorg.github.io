@@ -32,6 +32,24 @@
 <script src="{{ site.url }}/assets/js/card.js"></script>
 {% endif %}
 
+{% if page.title == "Meetups" %}
+<meta charset='utf-8' />
+<link href="{{ site.url }}/assets/css/fullcalendar.min.css" rel='stylesheet' />
+<link href="{{ site.url }}/assets/css/fullcalendar.print.css" rel='stylesheet' media='print' />
+<script src="{{ site.url }}/assets/js/jquery.min.js"></script>
+<script src="{{ site.url }}/assets/js/moment.min.js"></script>
+<script src="{{ site.url }}/assets/js/fullcalendar.min.js"></script>
+<script src="{{ site.url }}/assets/js/gcal.js"></script>
+<style>
+	#loading {
+		display: none;
+		position: absolute;
+		top: 10px;
+		right: 10px;
+	}
+</style>
+{% endif %}
+
 <meta http-equiv="cleartype" content="on">
 
 <!-- HTML5 Shiv and Media Query Support -->

@@ -1,0 +1,59 @@
+<div id='loading'>loading...</div>
+<div id='calendar'></div>
+<script>
+	$(document).ready(function() {
+		$('#calendar').fullCalendar({
+			googleCalendarApiKey: 'AIzaSyDRwu1MLpm2u7PAU4pgCDyGHwGTR1PVA8s',
+      eventSources: [
+        {
+          googleCalendarId: 'rb2gfk20ctonkskuvua4bseh6kkclnml@import.calendar.google.com',
+          className: 'NYC',
+          textColor: "white",
+          backgroundColor: "black"
+        },
+        {
+          googleCalendarId: 'kbnr1tns4iudp760is0qne8k6aeci2s6@import.calendar.google.com',
+          className: 'BOS',
+          textColor: "white",
+          backgroundColor: "black"
+        },
+        {
+          googleCalendarId: 'nmmi81af78qiacnqlh52spukmj2pae40@import.calendar.google.com',
+          className: 'CHI',
+          textColor: "white",
+          backgroundColor: "black"
+        },
+        {
+          googleCalendarId: 'frn3t5rgo8nvkj9u5bm1jr4p8lv8h75m@import.calendar.google.com',
+          className: 'DC',
+          textColor: "white",
+          backgroundColor: "black"
+        },
+        {
+          googleCalendarId: 'qm6ams02is0qk24nbiten9g1pkom5l8r@import.calendar.google.com',
+          className: 'LA',
+          textColor: "white",
+          backgroundColor: "black"
+        },
+        {
+          googleCalendarId: 'ko10pluve9n1hg2t2k97jlkchbd2lvn8@import.calendar.google.com',
+          className: 'PGH',
+          textColor: "white",
+          backgroundColor: "black"
+        }
+      ],
+      views: {
+        month: {
+          displayEventTime: false
+        }
+      },
+      eventRender: function(event, element) {
+        element.html(event.source.className+" - "+event.title);
+      },
+			eventClick: function(event) {
+				window.open(event.url, 'gcalevent', 'width=700,height=600');
+				return false;
+			}
+		});
+	});
+</script>
