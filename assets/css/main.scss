@@ -64,28 +64,29 @@ section {
 
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
 
-.card-row {
+.cards {
   @include outer-container;
-  .one-card {
-    @include media(min-width 320px max-width 720px, 12) {
+   .card {
+    @include media(min-width 320px max-width 468px, 12) {
       @include span-columns(12);
     }
-    @include media(min-width 721px max-width 1024px, 12) {
+    @include media(min-width 468px max-width 800px, 12) {
       @include span-columns(6);
     }
-    @include media(min-width 1025px, 12) {
+    @include media(min-width 800px, 12) {
       @include span-columns(4);
     }
   }
 }
 
 .card {
+  max-width: 210px;
+  height: 400px;
+  margin-bottom: 10px;
+  border-radius: 3px;
   background-color: #FFF;
   position: relative;
   overflow: hidden;
-  width: 100%;
-  height: 100%;
-  min-height: 405px;
   -webkit-transition: all 300ms;
   transition: all 300ms;
   -webkit-user-select: none;
@@ -96,16 +97,12 @@ section {
   -webkit-animation-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
           animation-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
 }
-@media screen and (min-width: 30em) {
-  .card {
-    width: 225px;
-    height: 405px;
-    border-radius: 3px;
-  }
-  .card:hover {
-    cursor: pointer;
-  }
+
+.card-image {
+  width: 110px;
+  height: 110px;
 }
+
 .card-face {
   width: 100%;
   height: 100%;
@@ -137,7 +134,7 @@ section {
   display: block;
   padding: 4px 0;
   border-radius: 50%;
-  width: 23px;
+  //width: 23px;
   height: 23px;
   box-sizing: border-box;
   line-height: 1.2;
@@ -165,50 +162,9 @@ section {
   -webkit-transform: translateX(-100%);
           transform: translateX(-100%);
 }
-.card-face__menu-button {
-  position: absolute;
-  top: 10px;
-  right: 5px;
-  background: transparent;
-  border: none;
-  outline: none;
-  padding: 5px 15px;
-  -webkit-transform: translateX(150%);
-          transform: translateX(150%);
-  -webkit-animation: menu 2s;
-          animation: menu 2s;
-  -webkit-animation-fill-mode: both;
-          animation-fill-mode: both;
-  -webkit-animation-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
-          animation-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
-}
-.card-face__menu-button img {
-  pointer-events: none;
-}
-.card-face__back-button {
-  position: absolute;
-  top: 10px;
-  left: 0px;
-  background: transparent;
-  border: none;
-  outline: none;
-  padding: 5px 15px;
-}
-.card-face__back-button img {
-  pointer-events: none;
-}
-.card-face__settings-button {
-  position: absolute;
-  bottom: 0px;
-  right: 0px;
-  background: transparent;
-  border: none;
-  outline: none;
-  padding: 10px;
-}
 .card-face__avatar {
   display: block;
-  width: 110px;
+  //width: 110px;
   height: 110px;
   position: relative;
   margin-top: 40px;
@@ -287,7 +243,6 @@ section {
 .card-face__social {
   display: inline-block;
   margin: 0 7px;
-  width: 36px;
   height: 36px;
   -webkit-animation: socials 1.5s;
           animation: socials 1.5s;
@@ -307,30 +262,6 @@ section {
 .card-face__social:nth-child(3) {
   -webkit-animation-delay: 600ms;
           animation-delay: 600ms;
-}
-.card-face__stats {
-  display: block;
-  margin: 10px 0;
-}
-.show-menu .card-face__stats {
-  -webkit-animation: stats 1s;
-          animation: stats 1s;
-  -webkit-animation-fill-mode: both;
-          animation-fill-mode: both;
-  -webkit-animation-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
-          animation-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
-}
-.card-face__stats:nth-of-type(1) {
-  -webkit-animation-delay: 0;
-          animation-delay: 0;
-}
-.card-face__stats:nth-of-type(2) {
-  -webkit-animation-delay: 100ms;
-          animation-delay: 100ms;
-}
-.card-face__stats:nth-of-type(3) {
-  -webkit-animation-delay: 200ms;
-          animation-delay: 200ms;
 }
 @-webkit-keyframes avatar {
   from {
@@ -354,26 +285,6 @@ section {
     -webkit-transform: scale(1, 1);
             transform: scale(1, 1);
     opacity: 1;
-  }
-}
-@-webkit-keyframes menu {
-  from {
-    -webkit-transform: translateX(150%);
-            transform: translateX(150%);
-  }
-  to {
-    -webkit-transform: translateX(0);
-            transform: translateX(0);
-  }
-}
-@keyframes menu {
-  from {
-    -webkit-transform: translateX(150%);
-            transform: translateX(150%);
-  }
-  to {
-    -webkit-transform: translateX(0);
-            transform: translateX(0);
   }
 }
 @-webkit-keyframes fadedown {
@@ -418,26 +329,6 @@ section {
   to {
     -webkit-transform: translateY(0%);
             transform: translateY(0%);
-  }
-}
-@-webkit-keyframes stats {
-  from {
-    -webkit-transform: translateX(300%);
-            transform: translateX(300%);
-  }
-  to {
-    -webkit-transform: translateX(0%);
-            transform: translateX(0%);
-  }
-}
-@keyframes stats {
-  from {
-    -webkit-transform: translateX(300%);
-            transform: translateX(300%);
-  }
-  to {
-    -webkit-transform: translateX(0%);
-            transform: translateX(0%);
   }
 }
 @-webkit-keyframes bullet {

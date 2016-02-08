@@ -1,10 +1,10 @@
-<div class="card-row">
+<div class="cards">
 {% for organizer in site.data.organizers %}
-<div class="one-card">
 <div class="card">
   <div class="card-face face-1">
     <div class="card-face__avatar">
-    <img src="{{ organizer.avatar }}" width="110" height="110" draggable="false"/></div>
+    <img class="card-image" src="{{ organizer.avatar }}" />
+  </div>
     <h2 class="card-face__name">{{ organizer.name }}</h2>
     <span class="card-face__title">
       {{ organizer.city }}
@@ -21,12 +21,8 @@
     <a href="https://github.com/{{ organizer.github }}" target="_blank" class="card-face__social">
       <img src="http://cdn.flaticon.com/png/256/25231.png" width="36" height="36" draggable="false"/>
     </a>
-		<!-- <a href="https://twitter.com/adconk" target="_blank" class="card-face__social">
-      <img src="http://icons.iconarchive.com/icons/xenatt/the-circle/96/App-Twitter-icon.png" width="36" height="36" draggable="false"/>
-    </a> -->
     </div>
   </div>
-</div>
 </div>
 {% endfor %}
 </div>
