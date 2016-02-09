@@ -1,0 +1,29 @@
+<div class="list">
+  <div class="items">
+    hello
+  </div>
+  {% for staffer in site.data.staffers %}
+  <div class="card">
+    <div class="card-face face-1">
+      <div class="card-face__avatar">
+      <img class="card-image" src="{{ staffer.avatar }}" />
+    </div>
+      <h2 class="card-face__name">{{ staffer.name }}</h2>
+      <span class="card-face__title">
+        {{ staffer.department }}
+        <br />
+        <a href=mailto:{{ staffer.email }}> {{ staffer.email }}</a>
+        <br />
+      </span>
+      <div class="card-face-footer">
+  		<a href="https://linkedin.com/in/{{ staffer.linkedin }}" target="_blank" class="card-face__social">
+        <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-128.png" width="36" height="36" draggable="false"/>
+      </a>
+      <a href="https://github.com/{{ staffer.github }}" target="_blank" class="card-face__social">
+        <img src="http://cdn.flaticon.com/png/256/25231.png" width="36" height="36" draggable="false"/>
+      </a>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>

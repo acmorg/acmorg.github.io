@@ -64,23 +64,40 @@ section {
 
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
 
-.cards {
+.list {
   @include outer-container;
-   .card {
-    @include media(min-width 320px max-width 468px, 12) {
+  @include media(min-width 320px max-width 668px, 12) {
+    .items {
       @include span-columns(12);
     }
-    @include media(min-width 468px max-width 800px, 12) {
+    .card {
+      @include span-columns(12);
+    }
+  }
+  @include media(min-width 669px, 12) {
+    .items {
       @include span-columns(6);
     }
-    @include media(min-width 800px, 12) {
+    .card {
+      @include span-columns(6);
+    }
+  }
+}
+
+.cards {
+  @include outer-container;
+    .card {
+    @include media(min-width 320px max-width 668px, 12) {
+      @include span-columns(12);
+    }
+    @include media(min-width 669px, 12) {
       @include span-columns(4);
+      max-width: 210px;
     }
   }
 }
 
 .card {
-  max-width: 210px;
   height: 400px;
   margin-bottom: 10px;
   border-radius: 3px;
