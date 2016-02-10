@@ -2,14 +2,12 @@
 sitemap: false
 ---
 [
-	{% for post in site.posts %}
+	{% for organizer in site.data.organizers %}
 		{
-		  "title"      : "{{ post.title | escape }}",
-		  "category"   : "{{ post.category }}",
-      "tags"       : "{{ post.tags | array_to_sentence_string }}",
-		  "url"        : "{{ site.url }}{{ post.url }}",
-		  "date"       : "{{ post.date }}",
-		  "shortdate"  : "{{ post.date | date: '%B %d, %Y' }}"
+		  "name"       : "{{ organizer.name | escape }}",
+		  "city"  		 : "{{ organizer.city }}",
+      "specialty"  : "{{ organizer.specialty }}",
+		  "url"        : "/organizers/"
 		} {% unless forloop.last %},{% endunless %}
 	{% endfor %}
 ]
