@@ -4,7 +4,7 @@ sitemap: false
 [
 	{% for organizer in site.data.organizers %}
 		{
-		  "name"       : "{{ organizer.name | escape }}",
+		  "name"       : "{{ organizer.name }}",
 		  "city"  		 : "{{ organizer.city }}",
       "specialty"  : "{{ organizer.specialty }}",
 		  "url"        : "/organizers/"
