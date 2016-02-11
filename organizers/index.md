@@ -5,6 +5,4 @@ excerpt: "Our organizers of ACM Local."
 modified: 2014-11-17T11:46:38.564948-04:00
 ---
 
-{% if page.title == "Organizers" %}
 {% include organizers.html %}
-{% endif %}

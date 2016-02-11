@@ -7,7 +7,7 @@
       $('.search-field').jekyllSearch({
           jsonFile: '{{ site.url }}/search.json',
           searchResults: '.search-results',
-          template: '<li><article><a href="{url}">{title} <span class="entry-date"><time datetime="{date}">{shortdate}</time></span></a></article></li>',
+          template: '<li><a href="{url}">{name} <span class="entry-date">{city} - {specialty}</span></a></li>',
           fuzzy: true,
           noResults: '<p>Nothing found.</p>'
         });
