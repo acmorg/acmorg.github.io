@@ -6,6 +6,7 @@ sitemap: false
 		{
 		  "name"       : "{{ organizer.name }}",
 		  "city"  		 : "{{ organizer.city }}",
+			"city_long"  : "{{ organizer.city_long }}",
       "specialty"  : "{{ organizer.specialty }}",
 		  "url"        : "/cities/{{ organizer.city_slug }}"
 		} {% unless forloop.last %},{% endunless %}
