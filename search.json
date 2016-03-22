@@ -7,7 +7,7 @@ sitemap: false
 		  "name"       : "{{ organizer.name }}",
 		  "city"  		 : "{{ organizer.city }}",
       "specialty"  : "{{ organizer.specialty }}",
-		  "url"        : "/organizers/"
+		  "url"        : "/cities/{{ organizer.city_slug }}"
 		} {% unless forloop.last %},{% endunless %}
 	{% endfor %}
 ]
