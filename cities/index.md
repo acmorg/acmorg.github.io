@@ -10,7 +10,7 @@ modified: 2014-11-17T11:46:38.564948-04:00
 <h2>
   <span>Pittsburgh</span>
     <br />
-    <a markdown="0" href="pittsburgh.html" class="btn">More</a>
+    <a markdown="0" href="pittsburgh/" class="btn">More</a>
 </h2>
 </div>
 <div class="meetup_img">
@@ -18,7 +18,7 @@ modified: 2014-11-17T11:46:38.564948-04:00
 <h2>
   <span>Boston</span>
     <br />
-    <a markdown="0" href="boston.html" class="btn">More</a>
+    <a markdown="0" href="boston/" class="btn">More</a>
 </h2>
 </div>
 </section>
@@ -28,7 +28,7 @@ modified: 2014-11-17T11:46:38.564948-04:00
 <h2>
   <span>New York City</span>
   <br />
-  <a markdown="0" href="new-york-city.html" class="btn">More</a>
+  <a markdown="0" href="new-york-city/" class="btn">More</a>
 </h2>
 </div>
 <div class="meetup_img">
@@ -36,7 +36,7 @@ modified: 2014-11-17T11:46:38.564948-04:00
 <h2>
   <span>Washington DC</span>
   <br />
-  <a markdown="0" href="washington-dc.html" class="btn">More</a>
+  <a markdown="0" href="washington-dc/" class="btn">More</a>
 </h2>
 </div>
 </section>
@@ -46,7 +46,7 @@ modified: 2014-11-17T11:46:38.564948-04:00
 <h2>
 <span>Los Angeles</span>
 <br />
-<a markdown="0" href="los-angeles.html" class="btn">More</a>
+<a markdown="0" href="los-angeles/" class="btn">More</a>
 </h2>
 </div>
 <div class="meetup_img">
@@ -54,7 +54,7 @@ modified: 2014-11-17T11:46:38.564948-04:00
 <h2>
 <span>Chicago</span>
 <br />
-<a markdown="0" href="chicago.html" class="btn">More</a>
+<a markdown="0" href="chicago/" class="btn">More</a>
 </h2>
 </div>
 </section>
