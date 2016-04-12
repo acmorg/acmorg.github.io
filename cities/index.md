@@ -42,7 +42,7 @@ modified: 2016-03-17T11:46:38.564948-04:00
 </section>
 <section>
 <div class="meetup_img">
-<img src="/images/cities-la.jpg" />
+<img src="/images/cities-sacramento.jpg" />
 <h2>
 <span>Sacramento</span>
 <br />
@@ -50,7 +50,7 @@ modified: 2016-03-17T11:46:38.564948-04:00
 </h2>
 </div>
 <div class="meetup_img">
-<img src="/images/cities-sacramento.jpg" />
+<img src="/images/cities-chicago.jpg" />
 <h2>
 <span>Chicago</span>
 <br />
