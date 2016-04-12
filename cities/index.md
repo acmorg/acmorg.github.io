@@ -2,7 +2,7 @@
 layout: page
 title: Cities
 excerpt: "Our cities of ACM Local."
-modified: 2014-11-17T11:46:38.564948-04:00
+modified: 2016-03-17T11:46:38.564948-04:00
 ---
 <section>
 <div class="meetup_img">
@@ -44,17 +44,27 @@ modified: 2014-11-17T11:46:38.564948-04:00
 <div class="meetup_img">
 <img src="/images/cities-la.jpg" />
 <h2>
-<span>Los Angeles</span>
+<span>Sacramento</span>
 <br />
-<a markdown="0" href="http://www.meetup.com/ACM-LA/" class="btn">Meetup</a>
+<a markdown="0" href="http://www.meetup.com/ACM-Sacramento/" class="btn">Meetup</a>
 </h2>
 </div>
 <div class="meetup_img">
-<img src="/images/cities-chicago.jpg" />
+<img src="/images/cities-sacramento.jpg" />
 <h2>
 <span>Chicago</span>
 <br />
 <a markdown="0" href="http://www.meetup.com/ACM-Chicago/" class="btn">Meetup</a>
+</h2>
+</div>
+</section>
+<section>
+<div class="meetup_img">
+<img src="/images/cities-la.jpg" />
+<h2>
+<span>Los Angeles</span>
+<br />
+<a markdown="0" href="http://www.meetup.com/ACM-LA/" class="btn">Meetup</a>
 </h2>
 </div>
 </section>
