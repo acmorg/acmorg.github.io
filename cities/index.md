@@ -60,6 +60,14 @@ modified: 2016-03-17T11:46:38.564948-04:00
 </section>
 <section>
 <div class="meetup_img">
+<img src="/images/cities-houston.jpg" />
+<h2>
+<span>Houston</span>
+<br />
+<a markdown="0" href="http://www.meetup.com/ACM-Houston/" class="btn">Meetup</a>
+</h2>
+</div>
+<div class="meetup_img">
 <img src="/images/cities-la.jpg" />
 <h2>
 <span>Los Angeles</span>
