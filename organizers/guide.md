@@ -69,4 +69,4 @@ Music, theater and ACM meetings are all performances.  With any performing group
 * Sponsors and
 * The Audience
 
-The common denominator that makes all four of these groups happy is to have a good-sized attentive audience
+The common denominator that makes all four of these groups happy is to have a good-sized attentive audience.
