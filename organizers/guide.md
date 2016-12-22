@@ -39,7 +39,7 @@ When starting a new group or reenergizing an existing group, be sure you have a 
 * Your academic contacts and former “profs” are potential speakers
 * Getting a lofty/remote/potentially expensive expert is great but don’t “hold out” for only those people
 * A good candidate as a speaker is someone who commits immediately to an invitation
-* Compelling speakers can also be found in the [ACM Distinguished Speakers Program](https://dsp.acm.org) where ACM helps cover speaker travel costs.
+* Compelling speakers can also be found in the [ACM Distinguished Speakers Program](http://dsp.acm.org) where ACM helps cover speaker travel costs.
 
 ### The Work That Lies Ahead
 
