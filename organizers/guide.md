@@ -30,7 +30,8 @@ When starting a new group or reenergizing an existing group, be sure you have a 
 * Topics/speakers only need to be interesting
 * Current technologies and subjects, in use but not necessarily new, still attract people
 * Single speakers or a panel works better than two equal speakers in an event
-* Recycle Presentations held elsewhere
+* You can get a head start on compelling speakers through the [ACM Distinguished Speakers Program](http://dsp.acm.org)
+* You can get also get a head start by recycling presentations from elsewhere
 * Speakers normally want multiple opportunities on the same topic with different audiences
 * You are very likely to get a speaker to commit when they have minimal prep time
 * Avoid relying upon the lofty/remote/potentially expensive experts
@@ -39,7 +40,7 @@ When starting a new group or reenergizing an existing group, be sure you have a 
 * Your academic contacts and former “profs” are potential speakers
 * Getting a lofty/remote/potentially expensive expert is great but don’t “hold out” for only those people
 * A good candidate as a speaker is someone who commits immediately to an invitation
-* Compelling speakers can also be found in the [ACM Distinguished Speakers Program](http://dsp.acm.org) where ACM helps cover speaker travel costs.
+
 
 ### The Work That Lies Ahead
 
