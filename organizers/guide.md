@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organizing Guide
+title: Organizers Guide
 excerpt: "A Guide to help our organizers of ACM Local."
 modified: 2016-11-18T11:46:38.564948-04:00
 ---
@@ -33,12 +33,11 @@ When starting a new group or reenergizing an existing group, be sure you have a 
 * You can get a head start on compelling speakers through the [ACM Distinguished Speakers Program](http://dsp.acm.org)
 * You can get also get a head start by recycling presentations from elsewhere
 * Speakers normally want multiple opportunities on the same topic with different audiences
-* You are very likely to get a speaker to commit when they have minimal prep time
-* Avoid relying upon the lofty/remote/potentially expensive experts
+* You are very likely to get a speaker to commit when they already have a presentation prepped
 * Your colleagues and other contacts are potential speakers
 * Audience members are potential speakers
 * Your academic contacts and former “profs” are potential speakers
-* Getting a lofty/remote/potentially expensive expert is great but don’t “hold out” for only those people
+* Getting a lofty/remote/potentially expensive expert as a presenter is great, but don’t “hold out” for only those people
 * A good candidate as a speaker is someone who commits immediately to an invitation
 
 
