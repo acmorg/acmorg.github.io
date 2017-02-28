@@ -38,6 +38,9 @@
 <h2>Hackpad</h2>
 <hr/>
 {% for city_data in cities %}
-<a href="https://acm.hackpad.com/{{city_data.hackpad_name}}">Edit here.</a>
-<script src="https://acm.hackpad.com/{{city_data.hackpad_name}}.js?format=html-notitle"></script>
+
+<iframe src="https://slack-files.com/{{city_data.slack_post}}"></iframe>
+<!-- <a href="https://acm.hackpad.com/{{city_data.hackpad_name}}">Edit here.</a> -->
+<!-- <script src="https://acm.hackpad.com/{{city_data.hackpad_name}}.js?format=html-notitle"></script> -->
+
 {% endfor %}
