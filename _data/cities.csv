@@ -1,8 +1,8 @@
-city_long,city_slug,city,meetup_url,hackpad_name,slack_post,phrase
-"Washington DC","washington-dc",DC,http://www.meetup.com/ACM-DC,"wwf9pVnHQwA",,"City events on the future of the computing sciences."
-"Los Angeles","los-angeles",LA,http://www.meetup.com/ACM-LA,"koS3sDLYQDb",,"City events on the future of the computing sciences."
-"Boston","boston",BOS,http://www.meetup.com/ACM-Boston,"ttEnDqTx6xJ",,"City events on the future of the computing sciences."
-"Chicago","chicago",CHI,http://www.meetup.com/ACM-Chicago,"nAz2FrpjeeG","T0G0HKKFZ-F40CE4KFW-d1cc5cad46","City events on the future of the computing sciences."
-"New York City","new-york-city",NYC,http://www.meetup.com/ACM-NY,"IEj3o02ECQk",,"City events on the future of the computing sciences."
-"Pittsburgh","pittsburgh",PGH,http://www.meetup.com/ACM-Pittsburgh,"ZQdGenh7T3D",,"City events on the future of the computing sciences."
-"Greenville","greenville",GSP,https://www.meetup.com/ACM-Greenville,"#",,"City events on the future of the computing sciences."
+city_long,city_slug,city,meetup_url,hackpad_name,phrase
+"Washington DC","washington-dc",DC,http://www.meetup.com/ACM-DC,"wwf9pVnHQwA","City events on the future of the computing sciences."
+"Los Angeles","los-angeles",LA,http://www.meetup.com/ACM-LA,"koS3sDLYQDb","City events on the future of the computing sciences."
+"Boston","boston",BOS,http://www.meetup.com/ACM-Boston,"ttEnDqTx6xJ","City events on the future of the computing sciences."
+"Chicago","chicago",CHI,http://www.meetup.com/ACM-Chicago,"nAz2FrpjeeG","City events on the future of the computing sciences."
+"New York City","new-york-city",NYC,http://www.meetup.com/ACM-NY,"IEj3o02ECQk","City events on the future of the computing sciences."
+"Pittsburgh","pittsburgh",PGH,http://www.meetup.com/ACM-Pittsburgh,"ZQdGenh7T3D","City events on the future of the computing sciences."
+"Greenville","greenville",GSP,https://www.meetup.com/ACM-Greenville,"#","City events on the future of the computing sciences."

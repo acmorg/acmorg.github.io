@@ -78,6 +78,14 @@ modified: 2016-03-17T11:46:38.564948-04:00
 </section>
 <section>
 <div class="meetup_img">
+<img src="/images/cities-raleigh.jpg" />
+<h2>
+<span>Raleigh</span>
+<br />
+<a markdown="0" href="http://www.meetup.com/ACM-Raleigh/" class="btn">Meetup</a>
+</h2>
+</div>
+<div class="meetup_img">
 <img src="/images/cities-greenville.jpg" />
 <h2>
 <span>Greenville</span>
