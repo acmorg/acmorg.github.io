@@ -24,6 +24,9 @@ When starting a new group or reenergizing an existing group, be sure you have a 
 
 ### Getting Started
 
+* talk to good speakers at conferences and seminars to other groups and try to convince them to come speak to your group.
+* It’s much easier to get an email response when you’ve already spoken to a potential speaker in person.
+* When you meet a potential speaker at another event or conference, this also gives you a chance to casually screen them for both knowledgeability and presentation skills
 * There are always more topics and speakers than times available in a season
 * Make the event presenter-oriented since it is harder to find a speaker than a topic
 * Presentations are not expected to be academic presentations of papers
@@ -40,7 +43,6 @@ When starting a new group or reenergizing an existing group, be sure you have a 
 * Getting a lofty/remote/potentially expensive expert as a presenter is great, but don’t “hold out” for only those people
 * A good candidate as a speaker is someone who commits immediately to an invitation
 
-
 ### The Work That Lies Ahead
 
 * Getting speaker short bio and talk abstract
@@ -52,6 +54,7 @@ When starting a new group or reenergizing an existing group, be sure you have a 
 * Keeping in touch with attendees on who is doing what
 * Keep tech talks, panel discussions, show and tells, and other casual events free
 * Creating a manageable, steady, interesting schedule of events is an anchor for growing an engaged audience over time
+* Having joint meetings with other groups is a good way to refresh peers
 
 ### Sponsors
 
