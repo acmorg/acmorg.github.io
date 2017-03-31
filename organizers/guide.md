@@ -24,7 +24,7 @@ When starting a new group or reenergizing an existing group, be sure you have a 
 
 ### Getting Started
 
-* talk to good speakers at conferences and seminars to other groups and try to convince them to come speak to your group.
+* Talk to good speakers at conferences and seminars to other groups and try to convince them to come speak to your group.
 * It’s much easier to get an email response when you’ve already spoken to a potential speaker in person.
 * When you meet a potential speaker at another event or conference, this also gives you a chance to casually screen them for both knowledgeability and presentation skills
 * There are always more topics and speakers than times available in a season
