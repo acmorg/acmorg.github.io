@@ -67,16 +67,14 @@ modified: 2016-03-17T11:46:38.564948-04:00
 <a markdown="0" href="http://www.meetup.com/ACM-Houston/" class="btn">Meetup</a>
 </h2>
 </div>
-<div class="meetup_img">
+<!-- <div class="meetup_img">
 <img src="/images/cities-la.jpg" />
 <h2>
 <span>Los Angeles</span>
 <br />
 <a markdown="0" href="http://www.meetup.com/ACM-LA/" class="btn">Meetup</a>
 </h2>
-</div>
-</section>
-<section>
+</div> -->
 <div class="meetup_img">
 <img src="/images/cities-raleigh.jpg" />
 <h2>
@@ -85,6 +83,8 @@ modified: 2016-03-17T11:46:38.564948-04:00
 <a markdown="0" href="http://www.meetup.com/ACM-Raleigh/" class="btn">Meetup</a>
 </h2>
 </div>
+</section>
+<section>
 <div class="meetup_img">
 <img src="/images/cities-greenville.jpg" />
 <h2>
