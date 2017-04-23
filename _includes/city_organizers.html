@@ -35,9 +35,8 @@
 {% endfor %}
 </div>
 <br />
-<h2>Hackpad</h2>
+<h2>Updates</h2>
 <hr/>
 {% for city_data in cities %}
-<a href="https://acm.hackpad.com/{{city_data.hackpad_name}}">Edit here.</a>
-<script src="https://acm.hackpad.com/{{city_data.hackpad_name}}.js?format=html-notitle"></script>
+<iframe style="display: block; margin-left: auto; margin-right: auto;" width="100%" height="800px" frameborder="0" src="https://docs.google.com/document/d/{{city_data.gdocs_id}}/pub?embedded=true"></iframe>
 {% endfor %}
