@@ -1,7 +1,8 @@
 ---
-layout: redirected
-sitemap: false
-permalink: /cities/chicago2/
-redirect_to:  https://slack-files.com/T0G0HKKFZ-F40CE4KFW-d1cc5cad46
-modified: 2014-11-17T11:46:38.564948-04:00
+layout: page
+title: Chicago
+excerpt: "ACM Chicago Meetup"
+modified: 2017-04-18T11:46:38.564948-04:00
 ---
+{% assign city = "CHI" %}
+{% include city_organizers2.html %}
