@@ -41,9 +41,9 @@ section {
     @include span-columns(8);
     @include media(min-width 320px max-width 720px, 12) {
       @include span-columns(12);
+    margin-bottom: 15px;
     }
   }
-
 }
 
 .site-logo img {
