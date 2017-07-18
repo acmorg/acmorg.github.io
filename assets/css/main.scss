@@ -32,30 +32,37 @@ section {
   //text-align: center;
   @include outer-container;
   .meetup_img {
-    @include span-columns(6);
+    @include span-columns(4);
     @include media(min-width 320px max-width 720px, 12) {
       @include span-columns(12);
     }
   }
+  .meetup_img2 {
+    @include span-columns(8);
+    @include media(min-width 320px max-width 720px, 12) {
+      @include span-columns(12);
+    }
+  }
+
 }
 
 .site-logo img {
   border-style: none;
 }
 
-.meetup_img {
+.meetup_img, .meetup_img2 {
    position: relative;
    width: 100%; /* for IE 6 */
 }
 
-.meetup_img h2 {
+.meetup_img h3, .meetup_img2 h3, {
    position: absolute;
-   top: 60px;
+   top: 5px;
    left: 20px;
    width: 100%;
 }
 
-.meetup_img h2 span {
+.meetup_img h3 span, .meetup_img2 h3 span {
    color: white;
    background: rgb(0, 0, 0); /* fallback color */
    background: rgba(0, 0, 0, 0.7);
