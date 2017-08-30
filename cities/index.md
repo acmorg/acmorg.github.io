@@ -107,9 +107,9 @@ modified: 2016-03-17T11:46:38.564948-04:00
 <br />
 <a markdown="0" href="http://www.meetup.com/ACM-Greenville/" class="btn">Meetup</a>
 </h3>
+</div>
 </section>
 <section>
-</div>
 <div class="meetup_img">
 <img src="/images/cities-kansascity.jpg" />
 <h3>
