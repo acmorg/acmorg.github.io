@@ -5,21 +5,21 @@ excerpt: "Our cities of ACM Local."
 modified: 2016-03-17T11:46:38.564948-04:00
 ---
 
-<!-- <div class="meetup_img">
-<img src="/images/cities-la.jpg" />
-<h3>
-<span>Los Angeles</span>
-<br />
-<a markdown="0" href="http://www.meetup.com/ACM-LA/" class="btn">Meetup</a>
-</h3>
-</div> -->
 <section>
-<div class="meetup_img2">
+<div class="meetup_img">
 <img src="/images/cities-sfbayarea.jpg" />
 <h3>
   <span>SF Bay Area</span>
     <br />
     <a markdown="0" href="https://www.meetup.com/SF-Bay-ACM/" class="btn">Meetup</a>
+</h3>
+</div>
+<div class="meetup_img">
+<img src="/images/cities-sf.jpg" />
+<h3>
+  <span>San Francisco</span>
+    <br />
+    <a markdown="0" href="https://www.meetup.com/acm-sf/" class="btn">Meetup</a>
 </h3>
 </div>
 <div class="meetup_img">
