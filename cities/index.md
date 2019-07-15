@@ -37,7 +37,7 @@ modified: 2016-03-17T11:46:38.564948-04:00
 <h3>
   <span>Pittsburgh</span>
     <br />
-    <a markdown="0" href="http://www.meetup.com/ACM-Pittsburgh/" class="btn">Meetup</a>
+    <a markdown="0" href="https://www.meetup.com/ACM-Pittsburgh/" class="btn">Meetup</a>
 </h3>
 </div>
 <div class="meetup_img">
@@ -45,7 +45,7 @@ modified: 2016-03-17T11:46:38.564948-04:00
 <h3>
   <span>Boston</span>
     <br />
-    <a markdown="0" href="http://www.meetup.com/ACM-Boston/" class="btn">Meetup</a>
+    <a markdown="0" href="https://www.meetup.com/ACM-Boston/" class="btn">Meetup</a>
 </h3>
 </div>
 <div class="meetup_img">
@@ -53,7 +53,7 @@ modified: 2016-03-17T11:46:38.564948-04:00
 <h3>
   <span>New York City</span>
   <br />
-  <a markdown="0" href="http://www.meetup.com/ACM-NY" class="btn">Meetup</a>
+  <a markdown="0" href="https://www.meetup.com/ACM-NY" class="btn">Meetup</a>
 </h3>
 </div>
 </section>
@@ -63,7 +63,7 @@ modified: 2016-03-17T11:46:38.564948-04:00
 <h3>
   <span>Wash, DC</span>
   <br />
-  <a markdown="0" href="http://www.meetup.com/ACM-DC" class="btn">Meetup</a>
+  <a markdown="0" href="https://www.meetup.com/ACM-DC" class="btn">Meetup</a>
 </h3>
 </div>
 <div class="meetup_img">
@@ -71,7 +71,7 @@ modified: 2016-03-17T11:46:38.564948-04:00
 <h3>
 <span>Sacramento</span>
 <br />
-<a markdown="0" href="http://www.meetup.com/ACM-Sacramento/" class="btn">Meetup</a>
+<a markdown="0" href="https://www.meetup.com/ACM-Sacramento/" class="btn">Meetup</a>
 </h3>
 </div>
 <div class="meetup_img">
@@ -79,7 +79,7 @@ modified: 2016-03-17T11:46:38.564948-04:00
 <h3>
 <span>Chicago</span>
 <br />
-<a markdown="0" href="http://www.meetup.com/ACM-Chicago/" class="btn">Meetup</a>
+<a markdown="0" href="https://www.meetup.com/ACM-Chicago/" class="btn">Meetup</a>
 </h3>
 </div>
 </section>
@@ -89,7 +89,7 @@ modified: 2016-03-17T11:46:38.564948-04:00
 <h3>
 <span>Los Angeles</span>
 <br />
-<a markdown="0" href="http://www.meetup.com/ACM-LA/" class="btn">Meetup</a>
+<a markdown="0" href="https://www.meetup.com/ACM-LA/" class="btn">Meetup</a>
 </h3>
 </div>
 <div class="meetup_img">
@@ -97,7 +97,7 @@ modified: 2016-03-17T11:46:38.564948-04:00
 <h3>
 <span>Raleigh</span>
 <br />
-<a markdown="0" href="http://www.meetup.com/ACM-Raleigh/" class="btn">Meetup</a>
+<a markdown="0" href="https://www.meetup.com/ACM-Raleigh/" class="btn">Meetup</a>
 </h3>
 </div>
 <div class="meetup_img">
@@ -105,7 +105,7 @@ modified: 2016-03-17T11:46:38.564948-04:00
 <h3>
 <span>Greenville</span>
 <br />
-<a markdown="0" href="http://www.meetup.com/ACM-Greenville/" class="btn">Meetup</a>
+<a markdown="0" href="https://www.meetup.com/ACM-Greenville/" class="btn">Meetup</a>
 </h3>
 </div>
 </section>
@@ -115,7 +115,7 @@ modified: 2016-03-17T11:46:38.564948-04:00
 <h3>
 <span>Kansas City</span>
 <br />
-<a markdown="0" href="http://www.meetup.com/acm-kansas-city/" class="btn">Meetup</a>
+<a markdown="0" href="https://www.meetup.com/acm-kansas-city/" class="btn">Meetup</a>
 </h3>
 </div>
 <div class="meetup_img">
@@ -123,7 +123,15 @@ modified: 2016-03-17T11:46:38.564948-04:00
 <h3>
 <span>Atlanta</span>
 <br />
-<a markdown="0" href="http://www.meetup.com/acm-atlanta/" class="btn">Meetup</a>
+<a markdown="0" href="https://www.meetup.com/acm-atlanta/" class="btn">Meetup</a>
+</h3>
+</div>
+<div class="meetup_img">
+<img src="/images/cities-rio.jpg" />
+<h3>
+<span>Rio de Janiero</span>
+<br />
+<a markdown="0" href="https://www.meetup.com/acm-rio-de-janeiro/" class="btn">Meetup</a>
 </h3>
 </div>
 </section>
