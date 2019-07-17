@@ -129,7 +129,7 @@ modified: 2016-03-17T11:46:38.564948-04:00
 <div class="meetup_img">
 <img src="/images/cities-rio.jpg" />
 <h3>
-<span>Rio de Janiero</span>
+<span>Rio de Janeiro</span>
 <br />
 <a markdown="0" href="https://www.meetup.com/acm-rio-de-janeiro/" class="btn">Meetup</a>
 </h3>
