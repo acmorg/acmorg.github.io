@@ -1,9 +1,9 @@
 /*!
  * FullCalendar v2.6.0 Google Calendar Plugin
- * Docs & License: http://fullcalendar.io/
+ * Docs & License: https://fullcalendar.io/
  * (c) 2015 Adam Shaw
  */
- 
+
 (function(factory) {
 	if (typeof define === 'function' && define.amd) {
 		define([ 'jquery' ], factory);
@@ -90,7 +90,7 @@ function transformOptions(sourceOptions, start, end, timezone, calendar) {
 	}
 
 	if (!apiKey) {
-		reportError("Specify a googleCalendarApiKey. See http://fullcalendar.io/docs/google_calendar/");
+		reportError("Specify a googleCalendarApiKey. See https://fullcalendar.io/docs/google_calendar/");
 		return {}; // an empty source to use instead. won't fetch anything.
 	}
 
