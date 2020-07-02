@@ -1,9 +1,9 @@
 /*!
- * FullCalendar v2.6.0 Google Calendar Plugin
- * Docs & License: https://fullcalendar.io/
- * (c) 2015 Adam Shaw
+ * FullCalendar v2.8.0 Google Calendar Plugin
+ * Docs & License: http://fullcalendar.io/
+ * (c) 2016 Adam Shaw
  */
-
+ 
 (function(factory) {
 	if (typeof define === 'function' && define.amd) {
 		define([ 'jquery' ], factory);
@@ -90,7 +90,7 @@ function transformOptions(sourceOptions, start, end, timezone, calendar) {
 	}
 
 	if (!apiKey) {
-		reportError("Specify a googleCalendarApiKey. See https://fullcalendar.io/docs/google_calendar/");
+		reportError("Specify a googleCalendarApiKey. See http://fullcalendar.io/docs/google_calendar/");
 		return {}; // an empty source to use instead. won't fetch anything.
 	}
 
@@ -136,10 +136,10 @@ function transformOptions(sourceOptions, start, end, timezone, calendar) {
 			}
 			else if (data.items) {
 				$.each(data.items, function(i, entry) {
-					var url = entry.htmlLink;
+					var url = entry.htmlLink || null;
 
 					// make the URLs for each event show times in the correct timezone
-					if (timezoneArg) {
+					if (timezoneArg && url !== null) {
 						url = injectQsComponent(url, 'ctz=' + timezoneArg);
 					}
 
