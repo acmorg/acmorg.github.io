@@ -4,89 +4,89 @@
 	$(document).ready(function() {
 		$('#calendar').fullCalendar({
 			defaultView: 'listMonth',
-			googleCalendarApiKey: 'AIzaSyDRwu1MLpm2u7PAU4pgCDyGHwGTR1PVA8s',
+			//googleCalendarApiKey: 'AIzaSyDRwu1MLpm2u7PAU4pgCDyGHwGTR1PVA8s',
 			timezone: 'local',
 			events: {% ical = (Selene.parse(File.read('https://www.meetup.com/acm-chicago/events/ical/'))).to_json %},
-      eventSources: [
-        {
-          googleCalendarId: 'rb2gfk20ctonkskuvua4bseh6kkclnml@import.calendar.google.com',
-          className: 'NYC',
-          textColor: "white",
-          backgroundColor: "black"
-        },
-        {
-          googleCalendarId: 'kbnr1tns4iudp760is0qne8k6aeci2s6@import.calendar.google.com',
-          className: 'BOS',
-          textColor: "white",
-          backgroundColor: "black"
-        },
-        {
-          googleCalendarId: 'nmmi81af78qiacnqlh52spukmj2pae40@import.calendar.google.com',
-          className: 'CHI',
-          textColor: "white",
-          backgroundColor: "black"
-        },
-        {
-          googleCalendarId: 'frn3t5rgo8nvkj9u5bm1jr4p8lv8h75m@import.calendar.google.com',
-          className: 'DC',
-          textColor: "white",
-          backgroundColor: "black"
-        },
-        {
-          googleCalendarId: 'qm6ams02is0qk24nbiten9g1pkom5l8r@import.calendar.google.com',
-          className: 'LA',
-          textColor: "white",
-          backgroundColor: "black"
-        },
-        {
-          googleCalendarId: 'ko10pluve9n1hg2t2k97jlkchbd2lvn8@import.calendar.google.com',
-          className: 'PGH',
-          textColor: "white",
-          backgroundColor: "black"
-        },
-        {
-          googleCalendarId: 'kouq043sb0o9sna1e6vnpc4baods9qvo@import.calendar.google.com',
-          className: 'SACTO',
-          textColor: "white",
-          backgroundColor: "black"
-        },
-        {
-          googleCalendarId: '7k63oe8tm1002otq60ie9gfkofgkqhhk@import.calendar.google.com',
-          className: 'RDU',
-          textColor: "white",
-          backgroundColor: "black"
-        },
-        {
-          googleCalendarId: '9i1nkanm2ppj77es7kn2864bhjprcjlr@import.calendar.google.com',
-          className: 'GSP',
-          textColor: "white",
-          backgroundColor: "black"
-        },
-        {
-          googleCalendarId: 'ggsdfln62ffhh70gaun7fldecel5kuv9@import.calendar.google.com',
-          className: 'SFO',
-          textColor: "white",
-          backgroundColor: "black"
-        },
-				{
-          googleCalendarId: 'i3kii37d73peuifbppno8kv6t6hh0m2l@import.calendar.google.com',
-          className: 'KC',
-          textColor: "white",
-          backgroundColor: "black"
-        },
-				{
-          googleCalendarId: 'k6son8ohgsb7cghh9u66d7vkr9mekk1n@import.calendar.google.com',
-          className: 'ATL',
-          textColor: "white",
-          backgroundColor: "black"
-        },
-				{
-          googleCalendarId: 'jh4q8b30uu6aikefv0255aa4unenh3tc@import.calendar.google.com',
-          className: 'RDJ',
-          textColor: "white",
-          backgroundColor: "black"
-        }
-      ],
+      // eventSources: [
+      //   {
+      //     googleCalendarId: 'rb2gfk20ctonkskuvua4bseh6kkclnml@import.calendar.google.com',
+      //     className: 'NYC',
+      //     textColor: "white",
+      //     backgroundColor: "black"
+      //   },
+      //   {
+      //     googleCalendarId: 'kbnr1tns4iudp760is0qne8k6aeci2s6@import.calendar.google.com',
+      //     className: 'BOS',
+      //     textColor: "white",
+      //     backgroundColor: "black"
+      //   },
+      //   {
+      //     googleCalendarId: 'nmmi81af78qiacnqlh52spukmj2pae40@import.calendar.google.com',
+      //     className: 'CHI',
+      //     textColor: "white",
+      //     backgroundColor: "black"
+      //   },
+      //   {
+      //     googleCalendarId: 'frn3t5rgo8nvkj9u5bm1jr4p8lv8h75m@import.calendar.google.com',
+      //     className: 'DC',
+      //     textColor: "white",
+      //     backgroundColor: "black"
+      //   },
+      //   {
+      //     googleCalendarId: 'qm6ams02is0qk24nbiten9g1pkom5l8r@import.calendar.google.com',
+      //     className: 'LA',
+      //     textColor: "white",
+      //     backgroundColor: "black"
+      //   },
+      //   {
+      //     googleCalendarId: 'ko10pluve9n1hg2t2k97jlkchbd2lvn8@import.calendar.google.com',
+      //     className: 'PGH',
+      //     textColor: "white",
+      //     backgroundColor: "black"
+      //   },
+      //   {
+      //     googleCalendarId: 'kouq043sb0o9sna1e6vnpc4baods9qvo@import.calendar.google.com',
+      //     className: 'SACTO',
+      //     textColor: "white",
+      //     backgroundColor: "black"
+      //   },
+      //   {
+      //     googleCalendarId: '7k63oe8tm1002otq60ie9gfkofgkqhhk@import.calendar.google.com',
+      //     className: 'RDU',
+      //     textColor: "white",
+      //     backgroundColor: "black"
+      //   },
+      //   {
+      //     googleCalendarId: '9i1nkanm2ppj77es7kn2864bhjprcjlr@import.calendar.google.com',
+      //     className: 'GSP',
+      //     textColor: "white",
+      //     backgroundColor: "black"
+      //   },
+      //   {
+      //     googleCalendarId: 'ggsdfln62ffhh70gaun7fldecel5kuv9@import.calendar.google.com',
+      //     className: 'SFO',
+      //     textColor: "white",
+      //     backgroundColor: "black"
+      //   },
+			// 	{
+      //     googleCalendarId: 'i3kii37d73peuifbppno8kv6t6hh0m2l@import.calendar.google.com',
+      //     className: 'KC',
+      //     textColor: "white",
+      //     backgroundColor: "black"
+      //   },
+			// 	{
+      //     googleCalendarId: 'k6son8ohgsb7cghh9u66d7vkr9mekk1n@import.calendar.google.com',
+      //     className: 'ATL',
+      //     textColor: "white",
+      //     backgroundColor: "black"
+      //   },
+			// 	{
+      //     googleCalendarId: 'jh4q8b30uu6aikefv0255aa4unenh3tc@import.calendar.google.com',
+      //     className: 'RDJ',
+      //     textColor: "white",
+      //     backgroundColor: "black"
+      //   }
+      // ],
       views: {
         month: {
           displayEventTime: false
