@@ -6,7 +6,7 @@
 			defaultView: 'listMonth',
 			//googleCalendarApiKey: 'AIzaSyDRwu1MLpm2u7PAU4pgCDyGHwGTR1PVA8s',
 			timezone: 'local',
-			events: {{ (Selene.parse(File.read('https://www.meetup.com/acm-chicago/events/ical/'))).to_json }} ,
+			events: {% (Selene.parse(File.read('https://www.meetup.com/acm-chicago/events/ical/'))).to_json %},
       // eventSources: [
       //   {
       //     googleCalendarId: 'rb2gfk20ctonkskuvua4bseh6kkclnml@import.calendar.google.com',
@@ -97,6 +97,7 @@
       //   element.html(event.source.className+" - "+event.title);
       // },
 			// eventClick: function(event) {
+					//console.log(event)
 			// 	window.open(event.url, 'gcalevent', 'width=700,height=600');
 			// 	return false;
 			// }
