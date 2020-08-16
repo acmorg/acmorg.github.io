@@ -91,14 +91,15 @@
         month: {
           displayEventTime: false
         }
-      },
-      eventRender: function(event, element) {
-        element.html(event.source.className+" - "+event.title);
-      },
-			eventClick: function(event) {
-				window.open(event.url, 'gcalevent', 'width=700,height=600');
-				return false;
-			}
+      }
+			// ,
+      // eventRender: function(event, element) {
+      //   element.html(event.source.className+" - "+event.title);
+      // },
+			// eventClick: function(event) {
+			// 	window.open(event.url, 'gcalevent', 'width=700,height=600');
+			// 	return false;
+			// }
 		});
 	});
 </script>
