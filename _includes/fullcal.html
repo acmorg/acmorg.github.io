@@ -6,7 +6,7 @@
 			defaultView: 'listMonth',
 			//googleCalendarApiKey: 'AIzaSyDRwu1MLpm2u7PAU4pgCDyGHwGTR1PVA8s',
 			timezone: 'local',
-			events: {{ ical = (Selene.parse(File.read('https://www.meetup.com/acm-chicago/events/ical/'))).to_json }},
+			events: {{ (Selene.parse(File.read('https://www.meetup.com/acm-chicago/events/ical/'))).to_json }} ,
       // eventSources: [
       //   {
       //     googleCalendarId: 'rb2gfk20ctonkskuvua4bseh6kkclnml@import.calendar.google.com',
