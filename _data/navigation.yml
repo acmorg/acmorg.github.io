@@ -1,10 +1,7 @@
 # Site navigation links
 
-- title: Organizers
-  url: /organizers/
-
 - title: Guide
-  url: /organizers/guide/
+  url: /guide/
 
 - title: Cities
   url: /cities/
