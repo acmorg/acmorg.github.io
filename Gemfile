@@ -6,8 +6,6 @@ gem 'jekyll'
 gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
 gem 'octopress'
-gem 'httparty'
-gem 'selene'
 
 group :test do
   gem 'html-proofer'
