@@ -124,7 +124,6 @@
         element.html(event.source.className+" - "+event.title);
       },
 			eventClick: function(event) {
-				console.log(event.source.className[0])
 				window.open(region_urls[event.source.className[0]], 'gcalevent', 'width=700,height=600');
 				return false;
 			}
