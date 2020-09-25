@@ -2,6 +2,23 @@
 <div id='calendar'></div>
 <script>
 	$(document).ready(function() {
+		var region_urls = {
+    	NYC: "https://www.meetup.com/ACM-NY",
+    	BOS: "https://www.meetup.com/ACM-Boston",
+			DC: "https://www.meetup.com/ACM-DC",
+			LA: "https://www.meetup.com/ACM-LA",
+			CHI: "https://www.meetup.com/ACM-Chicago",
+			PGH: "https://www.meetup.com/ACM-Pittsburgh",
+			SACTO: "https://www.meetup.com/ACM-Sacramento",
+			RDU: "https://www.meetup.com/ACM-Raleigh",
+			GSP: "https://www.meetup.com/ACM-Greenville",
+			KC: "https://www.meetup.com/ACM-Kansas-City",
+			ATL: "https://www.meetup.com/ACM-Atlanta",
+			RDJ: "https://www.meetup.com/ACM-Rio-de-Janeiro",
+			BOM: "https://www.meetup.com/ACM-Mumbai",
+			YNG: "https://www.meetup.com/ACM-Youngstown",
+			SFO: "https://www.meetup.com/SF-Bay-ACM"
+		};
 		$('#calendar').fullCalendar({
 			defaultView: 'listMonth',
 			googleCalendarApiKey: 'AIzaSyDRwu1MLpm2u7PAU4pgCDyGHwGTR1PVA8s',
@@ -107,8 +124,8 @@
         element.html(event.source.className+" - "+event.title);
       },
 			eventClick: function(event) {
-					console.log(event)
-				window.open(event.url, 'gcalevent', 'width=700,height=600');
+				console.log(event.source.className[0])
+				window.open(region_urls[event.source.className[0]], 'gcalevent', 'width=700,height=600');
 				return false;
 			}
 		});

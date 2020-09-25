@@ -1,7 +1,10 @@
 # Site navigation links
 
-- title: Guide
-  url: /guide/
-
 - title: Meetups
   url: /meetups/
+
+- title: Organizing
+  url: /organizing/
+
+- title: Mentoring
+  url: /mentoring/

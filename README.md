@@ -1,7 +1,6 @@
 # README
 
 ## Getting Started
-
 * Install Ruby 2.5.8 using your favorite Ruby manager (asdf, rbenv, rvm)
 * In your terminal, do the following:
 
@@ -11,9 +10,17 @@ bundle exec jekyll build
 bundle exec jekyll serve
 ```
 
-## TBD
+* Commit your code to the repo, push, and then it goes live automatically.
 
-* Was looking into how to remove Google Calendar from the equation with regard to FullCalendar.  Currently, the Meetups calendar loads from a series of Google Calendars that load from Meetup ICS files. This line might work, but not far enough with it to know if its worthwhile.
-```
-Selene.parse(HTTParty.get('https://www.meetup.com/acm-chicago/events/ical/').body)
-```
+## Roadmap
+* TBD
+
+## Backlog
+* ACM Chicago page to replace http://chicagoacm.org (early 2000s design, no https)
+
+## Completed
+* Added new Mentoring Page.
+* Changed Guides page to Organizing Page.
+* Eliminated URLs back to intermediate Google Calendar.  Instead, calendar events go right to the meetup group.
+* Merged the Organizers page into the Guide page.
+* Merged the Cities page into the Meetups page.

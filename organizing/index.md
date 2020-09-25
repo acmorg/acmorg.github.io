@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organizers' Guide
+title: Organizing
 excerpt: "A Guide to help our organizers of ACM Local."
 modified: 2016-11-18T11:46:38.564948-04:00
 ---
