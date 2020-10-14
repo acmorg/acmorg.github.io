@@ -2,13 +2,13 @@
 sitemap: false
 ---
 [
-	{% for organizer in site.data.organizers %}
+	{% for member in site.data.members %}
 		{
-		  "name"       : "{{ organizer.name }}",
-		  "city"  		 : "{{ organizer.city }}",
-			"city_long"  : "{{ organizer.city_long }}",
-      "specialty"  : "{{ organizer.specialty }}",
-		  "url"        : "/cities/{{ organizer.city_slug }}"
+		  "name"       			: "{{ member.name }}",
+		  "role"  		 			: "{{ member.role }}",
+			"technical_focus" : "{{ member.technical_focus }}",
+      "linkedin"  			: "{{ member.linkedin }}",
+		  "github"        	: "{{ member.github }}"
 		} {% unless forloop.last %},{% endunless %}
 	{% endfor %}
 ]
