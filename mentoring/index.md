@@ -9,4 +9,6 @@ We cultivate an ongoing conversation across the globe with organizers of regiona
 
 In addition, through our steering committee, we have representation and provide strategic input into the [ACM Practitioners Board](https://www.acm.org/about-acm/boards-and-committees) along with other programs and services aimed for a global audience of designers, coders, scientists, and managers.
 
+[Become a Mentor here.](https://eepurl.com/3xhIX)
+
 ### Local Mentoring Committee (LMC)
