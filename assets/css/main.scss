@@ -91,23 +91,11 @@ section {
   }
 }
 
-.cards {
-  @include outer-container;
-    .card {
-    @include media(min-width 320px max-width 668px, 12) {
-      @include span-columns(12);
-    }
-    @include media(min-width 669px, 12) {
-      @include span-columns(6);
-      max-width: 210px;
-    }
-  }
-}
-
 .card {
   height: 400px;
   margin-bottom: 10px;
   border-radius: 3px;
+  max-width: 210px;
   background-color: #FFF;
   position: relative;
   overflow: hidden;
