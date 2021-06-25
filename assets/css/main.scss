@@ -98,7 +98,7 @@ section {
       @include span-columns(12);
     }
     @include media(min-width 669px, 12) {
-      @include span-columns(4);
+      @include span-columns(6);
       max-width: 210px;
     }
   }
