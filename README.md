@@ -17,6 +17,7 @@ bundle exec jekyll serve
 
 ## Backlog
 * ACM Chicago page to replace http://chicagoacm.org (early 2000s design, no https)
+* ACM Boston page to replace http://www.gbcacm.org/ (early 2000s design, no https)
 
 ## Completed
 * Added new Mentoring Page.
