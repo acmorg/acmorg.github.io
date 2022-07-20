@@ -5,6 +5,7 @@
 * In your terminal, do the following:
 
 ```
+gem install bundler
 bundle install
 bundle exec jekyll build
 bundle exec jekyll serve
