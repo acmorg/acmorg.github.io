@@ -7,7 +7,7 @@ modified: 2016-1-31T11:46:38.564948-04:00
 
 We activate regional tech communities at the forefront of computing. For a full listing of our upcoming events and groups, check our ACM Meetup Pro network page here:
 
-[ACM Local Network][https://meetup.com/pro/acm-local-network]
+[ACM Local Network](https://meetup.com/pro/acm-local-network)
 
 You can find our regional groups and events by following the links below:
 
