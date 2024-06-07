@@ -13,4 +13,4 @@ In addition, we also have regional groups not in our pro network that can be fou
 
 * [SF Bay Area](https://www.meetup.com/SF-Bay-ACM/)
 
-If you have a group that's not in our pro network, that you would like to have listed, please reach out by email to [Andrew Conklin](mailto:adconk@staff.acm.org).
+If you have a group that's not in our pro network, that you would like to have listed, please reach out by email to [Andrew Conklin](mailto:adconk@staff.acm.org) / [adconk@staff.acm.org](mailto:adconk@staff.acm.org).
