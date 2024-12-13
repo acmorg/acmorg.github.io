@@ -21,27 +21,6 @@
       </header>
       <div class="entry-content">
         {{ content }}
-
-        <div class="list">
-          {% for member in site.data.members %}
-          <div class="card">
-            <div class="card-face face-1">
-              <h2 class="card-face__name">{{ member.name }}</h2>
-              <span class="card-face__title">
-                {{ member.role }}
-                <br />
-                {{ member.technical_focus }}
-                <br />
-              </span>
-              <div class="card-face-footer">
-          		<a href="{{ member.url }}" target="_blank" class="card-face__social">
-                <img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-128.png" width="36" height="36" draggable="false"/>
-              </a>
-              </div>
-            </div>
-          </div>
-          {% endfor %}
-        </div>
       </div>
     </div>
   </article>
