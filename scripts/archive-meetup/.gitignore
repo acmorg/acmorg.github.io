@@ -1,0 +1,8 @@
+# Never commit the archive output or OAuth secrets
+archive/
+out/
+*.pem
+*.key
+.env
+.venv/
+__pycache__/
